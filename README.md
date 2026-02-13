@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jaime
 
-<!--
-**jperez-physics/jperez-physics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate physics student passionate about scientific computing, numerical methods, and programming for physics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+- Physics undergraduate student
+- Interested in scientific programming and numerical simulation
+- Working with Fortran, LaTeX, and computational physics tools
+  
+## 🛠️ Learning
+- Fortran
+- Python
+- Neural networks
+  
+## 📂 Current Projects
+- 🔹 Numerical methods library in Fortran (ODE solvers, linear algebra, etc.)
