@@ -13,4 +13,4 @@ I'm an undergraduate physics student passionate about scientific computing, nume
 - Neural networks
   
 ## 📂 Current Projects
-- 🔹 Numerical methods library in Fortran (ODE solvers, linear algebra, etc.)
+- Numerical methods library in Fortran (ODE solvers, linear algebra, etc.)
