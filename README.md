@@ -10,7 +10,7 @@ I build tools that let machines discover physical laws from data.
 - 📈 **Focus:** KAN + PySR pipelines for automated theory discovery in physics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jperez-physics/jperez-physics/main/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/jperez-physics/jperez-physics/main/github-metrics.svg" />
 </p>
   
 ## 🛠️ Languages
